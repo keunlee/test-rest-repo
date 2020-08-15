@@ -1,4 +1,8 @@
 {
+    "golang-lab00-response": {
+        "timeout" : 30,
+        "message" : "domain specific operational knowledge is king"
+    },
     "posts": [
       { "id": 1, "title": "Post 1" },
       { "id": 2, "title": "Post 2" },
