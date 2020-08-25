@@ -1,6 +1,6 @@
 {
     "golang-lab00-response": {
-        "timeout" : 30,
+        "timeout" : 15,
         "message" : "domain specific operational knowledge is king"
     },
     "posts": [
